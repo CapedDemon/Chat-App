@@ -39,7 +39,7 @@ python client.py
 
 
 (This is the video of the live example)
-![](https://github.com/Shreejan-35/Chat-App/blob/main/res/live-demo.mp4)
+![](https://youtu.be/R8MLOCNbMu0)
 
 ## Contirbution
 Feel free to contribute to this project
