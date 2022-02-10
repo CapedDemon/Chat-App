@@ -39,7 +39,11 @@ python client.py
 
 
 (This is the video of the live example) - link to youtube - https://youtu.be/R8MLOCNbMu0
-![Live Demo](https://user-images.githubusercontent.com/93109967/153348980-3320af09-fb6d-4322-aa75-920daa84dd88.mp4)
+
+
+https://user-images.githubusercontent.com/93109967/153348980-3320af09-fb6d-4322-aa75-920daa84dd88.mp4
+
+
 
 ## Contirbution
 Feel free to contribute to this project
