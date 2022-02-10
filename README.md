@@ -39,7 +39,7 @@ python client.py
 
 
 (This is the video of the live example)
-![](https://youtu.be/R8MLOCNbMu0)
+![Live demo](https://youtu.be/R8MLOCNbMu0)
 
 ## Contirbution
 Feel free to contribute to this project
